@@ -1,14 +1,14 @@
 import imaplib
 
 # A valid user, needed for re-whitelisting
-valid_user = 'valid.amm@aol.com'
-valid_pass = '123456192'
+valid_user = 'superadmin'
+valid_pass = 'michael'
 
 # Target user
-target_user = 'ahmad.amm@aol.com'
+target_user = 'info@workxon.com'
 
 # IMAP Settings
-host = "imap.aol.com"
+host = "imap.workxon.com"
 port = 993
 
 
